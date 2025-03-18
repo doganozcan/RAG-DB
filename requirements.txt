@@ -1,0 +1,5 @@
+typing_extensions
+langchain-community
+langchain
+langchain-core
+langgraph
